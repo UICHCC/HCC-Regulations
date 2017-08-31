@@ -1,4 +1,4 @@
-# UIC Homebrew Computer Club (UICHCC) Form of Organizaion, Rules and Regulations
+# UIC Homebrew Computer Club (UICHCC) Form of Organization, Rules and Regulations
 
 This repository contains files that describe rules and regulations on UIC Homebrew Computer Club (UICHCC).
 

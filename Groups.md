@@ -1,11 +1,7 @@
-# UIC Homebrew Computer Club Groups Planning Plans
+# UIC Homebrew Computer Club Groups Plan
 
-| Date      | Changelog                             |
-| --------- | ------------------------------------- |
-| 2017-8-31 | This plan has not yet been completed. |
-| 2017-9-01 | Translating the Document to en-US.    |
 
-UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organization. Its mode of operation is similar to TEDxUIC. a.k.a. The club's internal member responsible for maintaining the operation of the club and participate in project development, and all the creation produce within the UICHCC will be open to the Public.
+UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organization. Its mode of operation is similar to TEDxUIC. That is, the club's internal member responsible for maintaining the operation of the club and participate in project development, and all the creation produce within the UICHCC will be open to the Public.
 
 俱乐部采用（较为松散的）星状拓扑组织方式，即设立一个中心小组（主根组），其下设立项目小组（理论上可以存在无限多个），统一由俱乐部主根组管理。不同于“部门”的概念，这些小组可随意增设、撤销而不影响俱乐部本身运行。工作于某个小组的成员不限制其活动范围，即小组的设立仅用于管理与宣传，**任何人可以任意参与俱乐部所有的项目组（项目组另有规定除外，俱乐部基础设施与服务除外）**。
 -  实践上，俱乐部主根组之下还固定有数个负责维护俱乐部本身运作的小组，虽然这些小组与其它小组平级，但裁撤或更改这些小组需要经过主根组成员的一致通过。主根组（组委会）的运作方式另见规定。
@@ -35,7 +31,7 @@ UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organiza
 
 负责进行各类科技内容的发掘，一般是撰写推送文章、产品评测、IT 事件社评。
 
-## PR & Propaganda Group
+## PR(Public Relationship) & Propaganda Group
 
 即外联与宣传组。负责对外活动联系和俱乐部宣传事宜，同时也运营俱乐部媒体。
 
@@ -49,7 +45,7 @@ UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organiza
 
 **TBD: ** To be decided
 
-### Cyber Security & Self-Protection 101
+### Cyber Security & Self-Protection Course
 
 **TBD: ** To be decided
 
@@ -61,7 +57,7 @@ UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organiza
 
 **TBD: ** To be decided
 
-## R&D
+## R&D Category(Research & Development Category)
 
 这是一个分类而不是一个小组。每个小组负责开发某个特定的项目，每个项目设立一个小组。
 
@@ -97,6 +93,13 @@ UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organiza
 
 对开源软件界面语言及文档、科技文章等进行本地化（翻译、汉化）。计划与外部社区合作，如 LCTT、AOSC 等。
 
-### Open source , freeware and Creative Commons Popularize Group
+### Open Source , Free Software and Creative Commons Popularize Group
 
 研究并推广使用开源软件（与 ITSC 合作）以及一般作品（非软件，如图片、文章等）的自由分发及使用。
+
+
+
+| Date      | Changelog                             |
+| --------- | ------------------------------------- |
+| 2017-8-31 | This plan has not yet been completed. |
+| 2017-9-01 | Translating the Document to en-US.    |

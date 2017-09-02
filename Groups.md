@@ -83,17 +83,24 @@ This is a category rather than a group. Each group is responsible to develop and
 
 ## Open Source Community Group
 
-负责与学校信息技术服务中心 (ITSC) 合作的 UIC 开源社区的运作。
+Responsible for the operation of the UIC Open Source Community which collaboration with [UIC ITSC](http://itsc.uic.edu.hk/en/).
 
-**这是另一个根组**。一部分人员需要常驻本根组，以负责（相对独立于俱乐部的）开源社区的外联及内部事宜。但注意**本小组不属于上述固定的“负责维护俱乐部本身运作的小组”之一**，本小组属于较为特殊的项目组。
+**This is another Root Group**. Some of the members need to be resident in this Root Group. Those members are responsible for the management of the Community's (Relatively independent from UICHCC) internal & external affairs.
 
-注意开源社区相对于俱乐部有较高独立性，开源社区拥有自己的公共关系，可以自行决定内部事务而不需经过俱乐部主根组的同意，但组织上仍属于俱乐部，故其仍然在俱乐部星状拓扑结构内，对外宣传开源社区时应一并宣传俱乐部。
+Note: This group doesn't belong to the *common group* which mentioned above (responsible for maintaining the operation of UICHCC). This is a more special project group.
+
+Note: The Open Source Community has a higher independence within UICHCC. But It still belongs to the UICHCC.
+
+- It has its own public relationship.
+- Decide its own affair without the consent of the `\` Group
+
+The community and UICHCC should be advertised at the same.
 
 ### Linux User Group
 
 聚集 Linux 操作系统用户，进行一系列关于 Linux 的实践与分享活动。
 
-### l10n Group
+### L10n Group
 
 对开源软件界面语言及文档、科技文章等进行本地化（翻译、汉化）。计划与外部社区合作，如 LCTT、AOSC 等。
 

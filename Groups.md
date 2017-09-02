@@ -8,38 +8,42 @@ UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organiza
 
 ## Root
 
-俱乐部中心管理小组（亦可称作“组委会”），负责管理俱乐部内部事务及调控俱乐部资源（场地、设备等）。
+UICHCC Root Group (a.k.a. UICHCC Organizing Committee). This Group is responsible for the management of the UICHCC's internal affairs and resources (activity place & equipment etc.).
 
-- 财务
-- 秘书
+- Accountant
+- Secretary
 
 ## UX/UI Design Group
 
-负责制作俱乐部网站及宣传材料（包括但不限于：海报、视频）。
+Design the [UICHCC](https://www.uichcc.com) website and propaganda materials(Including but not limited to: Poster & Video).
 
-- 网页设计
-- 宣传材料设计
-- 持续的俱乐部设施用户体验改善
+- Website design
+- Propaganda materials design
+- Continuous improvement of User Experience(UX) for UICHCC's facilities.
 
 ## Infrastructure Maintenance Group
 
-负责维护俱乐部基础设施并保障可用性。
-- 服务器运维
-- 机房设备维护
+Maintain the club's infrastructure and ensure usability.
+- Server operation and maintenance
+- Server room equipment maintenance
 
 ## Content Mining Group
 
-负责进行各类科技内容的发掘，一般是撰写推送文章、产品评测、IT 事件社评。
+Mining various types of technological content. 
 
-## PR (Public Relationship) & Propaganda Group
+- Write articles
+- Product review
+- Editorial for IT events.
 
-即外联与宣传组。负责对外活动联系和俱乐部宣传事宜，同时也运营俱乐部媒体。
+## PR (Public Relationship) & Promotion Group
 
-- 微信公众号
+Responsible for public activities and publicity matters, but also the operation of the club media.
 
-## Activities & Lessons Development Group
+- WeChat Media Platform
 
-这是一个分类而不是一个小组。每个小组负责开发与进行其活动及课程；每个活动或课程设立一个小组。
+## Activities & Lessons Development Category
+
+This is a category rather than a group. Each group is responsible to develop and carry out certain course or activity. There is a group for each course or activity.
 
 ### IT Course Counseling Class
 
@@ -59,7 +63,7 @@ UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organiza
 
 ## R&D Category (Research & Development Category)
 
-这是一个分类而不是一个小组。每个小组负责开发某个特定的项目，每个项目设立一个小组。
+This is a category rather than a group. Each group is responsible to develop and carry out certain project. There is a group for each project.
 
 ### UICHCC Homepage Development Group
 

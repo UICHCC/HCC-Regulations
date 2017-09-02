@@ -31,7 +31,7 @@ UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organiza
 
 负责进行各类科技内容的发掘，一般是撰写推送文章、产品评测、IT 事件社评。
 
-## PR(Public Relationship) & Propaganda Group
+## PR (Public Relationship) & Propaganda Group
 
 即外联与宣传组。负责对外活动联系和俱乐部宣传事宜，同时也运营俱乐部媒体。
 
@@ -45,7 +45,7 @@ UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organiza
 
 **TBD: ** To be decided
 
-### Cyber Security & Self-Protection Course
+### Cyber Security & Self-Protection 101
 
 **TBD: ** To be decided
 
@@ -57,7 +57,7 @@ UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organiza
 
 **TBD: ** To be decided
 
-## R&D Category(Research & Development Category)
+## R&D Category (Research & Development Category)
 
 这是一个分类而不是一个小组。每个小组负责开发某个特定的项目，每个项目设立一个小组。
 

@@ -106,7 +106,7 @@ The community and UICHCC should be advertised at the same.
 
 ### Open Source , Free Software and Creative Commons Popularize Group
 
-研究并推广使用开源软件（与 ITSC 合作）以及一般作品（非软件，如图片、文章等）的自由分发及使用。
+Develop and popularize using Open Source software and Free Software (collaborate with UIC ITSC) and free distribution and use of general works (Non-Software like pictures and articles).
 
 
 

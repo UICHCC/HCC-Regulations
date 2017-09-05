@@ -1,6 +1,5 @@
 # UIC Homebrew Computer Club Groups Plan
 
-
 UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organization. Its mode of operation is similar to TEDxUIC. That is, the club's internal member responsible for maintaining the operation of the club and participate in project development, and all the creation produce within the UICHCC will be open to the Public.
 
 俱乐部采用（较为松散的）星状拓扑组织方式，即设立一个中心小组（主根组），其下设立项目小组（理论上可以存在无限多个），统一由俱乐部主根组管理。不同于“部门”的概念，这些小组可随意增设、撤销而不影响俱乐部本身运行。工作于某个小组的成员不限制其活动范围，即小组的设立仅用于管理与宣传，**任何人可以任意参与俱乐部所有的项目组（项目组另有规定除外，俱乐部基础设施与服务除外）**。
@@ -98,13 +97,13 @@ The community and UICHCC should be advertised at the same.
 
 ### Linux User Group
 
-聚集 Linux 操作系统用户，进行一系列关于 Linux 的实践与分享活动。
+Gathering Linux operating system users, hold a series of activities (Practice and Experience sharing) of Linux.
 
 ### L10n Group
 
-对开源软件界面语言及文档、科技文章等进行本地化（翻译、汉化）。计划与外部社区合作，如 LCTT、AOSC 等。
+Translate and localize User Interface and documents of Open source software, technology articles, etc. Plans to work with external communities such as LCTT (Linux.Cn Translation Team), AOSC (Anthon Open Source Community) and so on.
 
-### Open Source , Free Software and Creative Commons Popularize Group
+### Open Source , Free Software and Creative Commons Popularization Group
 
 Develop and popularize using Open Source software and Free Software (collaborate with UIC ITSC) and free distribution and use of general works (Non-Software like pictures and articles).
 

@@ -1,24 +1,24 @@
 # UIC Homebrew Computer Club Groups Plan
 
-UIC Homebrew Computer Club (Abbreviation: UICHCC) is an interest-driven organization. Its mode of operation is similar to TEDxUIC. That is, the club's internal member responsible for maintaining the operation of the club and participate in project development, and all the creation produce within the UICHCC will be open to the Public.
+UIC Homebrew Computer Club (Abbreviation: UICHCC) is (currently) a non-student-association interest-driven organization. Its mode of operation is similar to TEDxUIC; that is, the club's internal members are responsible for maintaining the operation of the club and participating in project development, however all the creative production of UICHCC will be opened to the public.
 
-俱乐部采用（较为松散的）星状拓扑组织方式，即设立一个中心小组（主根组），其下设立项目小组（理论上可以存在无限多个），统一由俱乐部主根组管理。不同于“部门”的概念，这些小组可随意增设、撤销而不影响俱乐部本身运行。工作于某个小组的成员不限制其活动范围，即小组的设立仅用于管理与宣传，**任何人可以任意参与俱乐部所有的项目组（项目组另有规定除外，俱乐部基础设施与服务除外）**。
--  实践上，俱乐部主根组之下还固定有数个负责维护俱乐部本身运作的小组，虽然这些小组与其它小组平级，但裁撤或更改这些小组需要经过主根组成员的一致通过。主根组（组委会）的运作方式另见规定。
+The club is organized as a losen form like star topology, that is, setting up a central group (Main Root Group), while project groups (unlimited in number), which are managed by the central group, are set under it. Unlike the concept of "department", these groups can be added, or revoked, not even affecting the club's normal work. Members of a specific group are not restricted to that group; that is, groups are used only for management and publicity, **everyone can, at their will, participate in all project groups in the club (except: the group has extra regulations, the infrastructures and services maintained by the club).**
+  - Practically, under the Main Root Group, there are several groups which are maintaining the club itself; although these groups are at the same level of other project groups, revoking or changing these groups needs to be unanimously adopted by the Main Root Group. See also the regulations on operation of the Main Root Group.
 
-## Root
+## Main Root
 
-UICHCC Root Group (a.k.a. UICHCC Organizing Committee). This Group is responsible for the management of the UICHCC's internal affairs and resources (activity place & equipment etc.).
+UICHCC Root Group (a.k.a. "Committee"). This Group is responsible for the management of the UICHCC's internal affairs and resource allocation (activity room, equipment, etc.).
 
 - Accountant
 - Secretary
 
-## UX/UI Design Group
+## UX / UI Design Group
 
-Design the [UICHCC](https://www.uichcc.com) website and propaganda materials(Including but not limited to: Poster & Video).
+Design the [UICHCC](https://www.uichcc.com) website and propaganda materials (Including but not limited to: posters, video).
 
 - Website design
 - Propaganda materials design
-- Continuous improvement of User Experience(UX) for UICHCC's facilities.
+- Continuous improvement of User Experience (UX) for UICHCC's facilities.
 
 ## Infrastructure Maintenance Group
 
@@ -28,15 +28,11 @@ Maintain the club's infrastructure and ensure usability.
 
 ## Content Mining Group
 
-Mining various types of technological content. 
+Mining various types of technological content, generally writing articles, review of products, editorial of IT events.
 
-- Write articles
-- Product review
-- Editorial for IT events.
+## PR (Public Relationship) Group
 
-## PR (Public Relationship) & Promotion Group
-
-Responsible for public activities and publicity matters, but also the operation of the club media.
+a.k.a Outreach Group. Responsible for public activities and publicity matters, but also run club media.
 
 - WeChat Media Platform
 
@@ -82,18 +78,11 @@ This is a category rather than a group. Each group is responsible to develop and
 
 ## Open Source Community Group
 
-Responsible for the operation of the UIC Open Source Community which collaboration with [UIC ITSC](http://itsc.uic.edu.hk/en/).
+Responsible for the operation of the UIC Open Source Community which collaborates with [UIC ITSC](http://itsc.uic.edu.hk/en/).
 
-**This is another Root Group**. Some of the members need to be resident in this Root Group. Those members are responsible for the management of the Community's (Relatively independent from UICHCC) internal & external affairs.
+**This is another Root Group**. There should always be someone in this Root Group. Those members are responsible for the management of the Community's (Relatively independent from UICHCC) internal & external affairs. Note that **this group doesn't belong to the group that "maintaining the club itself" which mentioned above**. This is a more special project group.
 
-Note: This group doesn't belong to the *common group* which mentioned above (responsible for maintaining the operation of UICHCC). This is a more special project group.
-
-Note: The Open Source Community has a higher independence within UICHCC. But It still belongs to the UICHCC.
-
-- It has its own public relationship.
-- Decide its own affair without the consent of the `\` Group
-
-The community and UICHCC should be advertised at the same.
+Note: The Open Source Community has a higher independence within UICHCC. But It still belongs to the UICHCC. It has its own public relationship, and can decide its own affair without the consent of the Main Root Group. However, when advertising the open source community, UICHCC should be advertised at the same time.
 
 ### Linux User Group
 
@@ -101,11 +90,11 @@ Gathering Linux operating system users, hold a series of activities (Practice an
 
 ### L10n Group
 
-Translate and localize User Interface and documents of Open source software, technology articles, etc. Plans to work with external communities such as LCTT (Linux.Cn Translation Team), AOSC (Anthon Open Source Community) and so on.
+Translate and localize User Interface, documents of open source software, technology articles, etc. Plans to work with external communities such as LCTT (Linux.Cn Translation Team), AOSC (Anthon Open Source Community) and so on.
 
 ### Open Source , Free Software and Creative Commons Popularization Group
 
-Develop and popularize using Open Source software and Free Software (collaborate with UIC ITSC) and free distribution and use of general works (Non-Software like pictures and articles).
+Develop and popularize use of Open Source software and Free Software (collaborate with UIC ITSC) and free distribution and use of general works (non-software like pictures and articles).
 
 
 

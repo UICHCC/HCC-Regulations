@@ -5,7 +5,7 @@ This repository contains files that describe rules and regulations on UIC Homebr
 ## Writing Specification
 
 - All files should be written in Markdown.
-- Use [Mandarin Chinese (Simplified) (`cmn-Hans`)](https://en.wikipedia.org/wiki/ISO_639:cmn) mainly to keep accuracy. However, there should also be [English (`eng`)](https://en.wikipedia.org/wiki/ISO_639:cmn) translations.
+- Use [Mandarin Chinese (Simplified) (`cmn-Hans`)](https://en.wikipedia.org/wiki/ISO_639:cmn) mainly to keep accuracy. However, there should also be [English (`eng`)](https://en.wikipedia.org/wiki/ISO_639:eng) translations.
   - English translations should have the same meaning as the Simplified Chinese version (that is, symmetric).
   - For a non-finished documentation, translation is not required.
 

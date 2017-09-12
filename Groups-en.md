@@ -1,13 +1,13 @@
 # UIC Homebrew Computer Club Groups Plan
 
-UIC Homebrew Computer Club (Abbreviation: UICHCC) is (currently) a non-student-association interest-driven organization. Its mode of operation is similar to TEDxUIC; that is, the club's internal members are responsible for maintaining the operation of the club and participating in project development, however **all the creative production of UICHCC will be opened to the public**.
+UIC Homebrew Computer Club (Abbreviation: UICHCC) is (currently) a non-student-association interest-driven organization. Its mode of operation is similar to [TEDxUIC](https://tedxuic.com/); that is, the club's internal members are responsible for maintaining the operation of the club and participating in project development, however **all the creative production of UICHCC will be opened to the public**.
 
 The club is organized as (a relatively losen form like) star topology, that is, setting up a central group (Main Root Group), while project groups (unlimited in number), which are managed by the central group, are set under it. Unlike the concept of "department", these groups can be added, or revoked, not even affecting the club's normal work. Members of a specific group are not restricted to that group; that is, groups are used only for management and publicity, **everyone can, at their will, participate in all project groups in the club (except: the group has extra regulations, the infrastructures and services maintained by the club).**
   - Practically, under the Main Root Group, there are several groups which are maintaining the club itself; although these groups are at the same level of other project groups, revoking or changing these groups needs to be unanimously adopted by the Main Root Group. See also the regulations on operation of the Main Root Group.
 
 ## Main Root
 
-UICHCC Root Group (a.k.a. "Committee"). This Group is responsible for the management of the UICHCC's internal affairs and resource allocation (activity room, equipment, etc.).
+UICHCC central management group (a.k.a. "committee"). This Group is responsible for the management of the UICHCC's internal affairs and resource allocation (activity room, equipment, etc.).
 
 - Accountant
 - Secretary
@@ -79,7 +79,7 @@ This is a category rather than a group. Each group is responsible to develop and
 
 ## Open Source Community Group
 
-Responsible for the operation of the UIC Open Source Community which collaborates with [UIC ITSC](http://itsc.uic.edu.hk/en/).
+Responsible for the operation of the UIC Open Source Community which collaborates with [UIC ITSC](http://itsc.uic.edu.hk/en).
 
 **This is another Root Group**. There should always be someone in this Root Group. Those members are responsible for the management of the Community's (Relatively independent from UICHCC) internal & external affairs. Note that **this group doesn't belong to the group that "maintaining the club itself" which mentioned above**. This is a more special project group.
 
@@ -91,7 +91,7 @@ Gathering Linux operating system users, hold a series of activities (Practice an
 
 ### L10n Group
 
-Translate and localize User Interface, documents of open source software, technology articles, etc. Plans to work with external communities such as LCTT (Linux.Cn Translation Team), AOSC (Anthon Open Source Community) and so on.
+Translate and localize User Interface, documents of open source software, technology articles, etc. Plans to work with external communities such as [LCTT (Linux.Cn Translation Team)](https://linux.cn/lctt), [AOSC (Anthon Open Source Community)](https://aosc.io) and so on.
 
 ### Open Source , Free Software and Creative Commons Popularization Group
 

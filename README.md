@@ -8,10 +8,6 @@ This repository contains files that describe rules and regulations on UIC Homebr
 - Use Simplified Chinese mainly to keep accuracy. However, there should also be English translations.
   - English translations should have the same meaning as the Simplified Chinese version (that is, symmetric).
   - For a non-finished documentation, translation is not required.
-- When something is somewhat finished, the following should be stated in the document:
-  - Version number
-  - Date of last change
-  - Changelog
 
 ## Problems
 

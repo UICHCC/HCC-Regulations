@@ -100,10 +100,3 @@ Translate and localize User Interface, documents of open source software, techno
 ### Open Source , Free Software and Creative Commons Popularization Group
 
 Develop and popularize use of Open Source software and Free Software (collaborate with UIC ITSC) and free distribution and use of general works (non-software like pictures and articles).
-
-
-
-| Date      | Changelog                             |
-| --------- | ------------------------------------- |
-| 2017-8-31 | This plan has not yet been completed. |
-| 2017-9-01 | Translating the Document to en-US.    |

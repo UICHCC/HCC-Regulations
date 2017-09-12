@@ -45,7 +45,7 @@ This is a category rather than a group. Each group is responsible to develop and
 
 **TBD:** To be decided
 
-### Cyber Security & Self-Protection 101
+### Surveillance Self-Defense
 
 **TBD:** To be decided
 

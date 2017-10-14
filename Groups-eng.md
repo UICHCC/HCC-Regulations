@@ -37,6 +37,14 @@ a.k.a Outreach Group. Responsible for public activities and publicity matters, b
 
 - WeChat Media Platform
 
+## Open Source Community Group
+
+Responsible for the operation of the UIC Open Source Community which collaborates with [UIC ITSC](http://itsc.uic.edu.hk/en).
+
+- **Linux User Group**: Gathering Linux operating system users, hold a series of activities (Practice and Experience sharing) of Linux.
+- **L10n Group**: Translate and localize User Interface, documents of open source software, technology articles, etc. Plans to work with external communities such as [LCTT (Linux.Cn Translation Team)](https://linux.cn/lctt), [AOSC (Anthon Open Source Community)](https://aosc.io) and so on.
+- **Open Source , Free Software and Creative Commons Popularization Group**: Develop and popularize use of Open Source software and Free Software (collaborate with UIC ITSC) and free distribution and use of general works (non-software like pictures and articles).
+
 ## Activities & Lessons Development Category
 
 This is a category rather than a group. Each group is responsible to develop and carry out certain course or activity. There is a group for each course or activity.
@@ -62,14 +70,6 @@ This activity is shelved.
 ### Ingress
 
 _The world around you is not what it seems._
-
-## Open Source Community Group
-
-Responsible for the operation of the UIC Open Source Community which collaborates with [UIC ITSC](http://itsc.uic.edu.hk/en).
-
-- **Linux User Group**: Gathering Linux operating system users, hold a series of activities (Practice and Experience sharing) of Linux.
-- **L10n Group**: Translate and localize User Interface, documents of open source software, technology articles, etc. Plans to work with external communities such as [LCTT (Linux.Cn Translation Team)](https://linux.cn/lctt), [AOSC (Anthon Open Source Community)](https://aosc.io) and so on.
-- **Open Source , Free Software and Creative Commons Popularization Group**: Develop and popularize use of Open Source software and Free Software (collaborate with UIC ITSC) and free distribution and use of general works (non-software like pictures and articles).
 
 ## R&D (Research & Development) Category
 

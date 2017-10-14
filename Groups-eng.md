@@ -49,13 +49,15 @@ This is a category rather than a group. Each group is responsible to develop and
 
 **TBD:** To be decided
 
+<!--
 ### Typing Contest
 
 **TBD:** To be decided
+-->
 
-### Hackathon
+### ~~Hackathon~~
 
-**TBD:** To be decided
+This activity is shelved.
 
 ### Ingress
 
@@ -69,10 +71,11 @@ This is a category rather than a group. Each group is responsible to develop and
 
 **TBD:** To be decided
 
-### Online Judge Development Group
+### ~~Online Judge Development Group~~
 
-**TBD:** To be decided
+This project is shelved.
 
+<!--
 ### Forum (Hu'U) Development Group
 
 **TBD:** To be decided
@@ -80,6 +83,7 @@ This is a category rather than a group. Each group is responsible to develop and
 ### UIC Portal APP Development Group
 
 **TBD:** To be decided
+-->
 
 ## Open Source Community Group
 

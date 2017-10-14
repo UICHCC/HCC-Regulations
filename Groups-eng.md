@@ -39,7 +39,7 @@ a.k.a Outreach Group. Responsible for public activities and publicity matters, b
 
 ## Open Source Community Group
 
-Responsible for the operation of the UIC Open Source Community which collaborates with [UIC ITSC](http://itsc.uic.edu.hk/en).
+Responsible for the operation of the UIC Open Source Community.
 
 - **Linux User Group**: Gathering Linux operating system users, hold a series of activities (Practice and Experience sharing) of Linux.
 - **L10n Group**: Translate and localize User Interface, documents of open source software, technology articles, etc. Plans to work with external communities such as [LCTT (Linux.Cn Translation Team)](https://linux.cn/lctt), [AOSC (Anthon Open Source Community)](https://aosc.io) and so on.

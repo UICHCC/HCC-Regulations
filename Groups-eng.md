@@ -1,13 +1,13 @@
-# UIC Homebrew Computer Club Groups Plan
+# UIC HCC Computer Community Groups Plan
 
-UIC Homebrew Computer Club (Abbreviation: UICHCC) is (currently) a non-student-association interest-driven organization. Its mode of operation is similar to [TEDxUIC](https://tedxuic.com/); that is, the club's internal members are responsible for maintaining the operation of the club and participating in project development, however **all the creative production of UICHCC will be opened to the public**.
+UIC HCC Computer Community (Association) is (currently) a non-student-association interest-driven organization. Its mode of operation is similar to [TEDxUIC](https://tedxuic.com/); that is, the association's internal members are responsible for maintaining the operation of the association and participating in project development, however **all the creative production of UICHCC will be opened to the public**.
 
-The club is organized as (a relatively losen form like) star topology, that is, setting up a central group (Main Root Group), while project groups (unlimited in number), which are managed by the central group, are set under it. Unlike the concept of "department", these groups can be added, or revoked, not even affecting the club's normal work. Members of a specific group are not restricted to that group; that is, groups are used only for management and publicity, **everyone can, at their will, participate in all project groups in the club (except: the group has extra regulations, the infrastructures and services maintained by the club).**
-  - Practically, under the Main Root Group, there are several groups which are maintaining the club itself; although these groups are at the same level of other project groups, revoking or changing these groups needs to be unanimously adopted by the Main Root Group. See also the regulations on operation of the Main Root Group.
+The association is organized as (a relatively losen form like) star topology, that is, setting up a central group (Core Group), while project groups (unlimited in number), which are managed by the central group, are set under it. Unlike the concept of "department", these groups can be added, or revoked, not even affecting the association's normal work. Members of a specific group are not restricted to that group; that is, groups are used only for management and publicity, **everyone can, at their will, participate in all project groups in the association (except: the group has extra regulations, the infrastructures and services maintained by the association).**
+  - Practically, under the Core Group, there are several groups which are maintaining the association itself; although these groups are at the same level of other project groups, revoking or changing these groups needs to be unanimously adopted by the Core Group. See also the regulations on operation of the Core Group.
 
-## Main Root
+## Core
 
-UICHCC central management group (a.k.a. "committee"). This Group is responsible for the management of the UICHCC's internal affairs and resource allocation (activity room, equipment, etc.).
+UICHCC central management group. This Group is responsible for the management of the UICHCC's internal affairs and resource allocation (activity room, equipment, etc.).
 
 - Accountant
 - Secretary
@@ -22,7 +22,7 @@ Design the [UICHCC](https://www.uichcc.com) website and propaganda materials (In
 
 ## Infrastructure Maintenance Group
 
-Maintain the club's infrastructure and ensure usability.
+Maintain the association's infrastructure and ensure usability.
 
 - Server operation and maintenance
 - Server room equipment maintenance
@@ -33,7 +33,7 @@ Mining various types of technological content, generally writing articles, revie
 
 ## PR (Public Relationship) Group
 
-a.k.a Outreach Group. Responsible for public activities and publicity matters, but also run club media.
+a.k.a Outreach Group. Responsible for public activities and publicity matters, but also run association media.
 
 - WeChat Media Platform
 
@@ -85,9 +85,9 @@ This is a category rather than a group. Each group is responsible to develop and
 
 Responsible for the operation of the UIC Open Source Community which collaborates with [UIC ITSC](http://itsc.uic.edu.hk/en).
 
-**This is another Root Group**. There should always be someone in this Root Group. Those members are responsible for the management of the Community's (Relatively independent from UICHCC) internal & external affairs. Note that **this group doesn't belong to the group that "maintaining the club itself" which mentioned above**. This is a more special project group.
+**This is another Root Group**. There should always be someone in this Root Group. Those members are responsible for the management of the Community's (Relatively independent from UICHCC) internal & external affairs. Note that **this group doesn't belong to the group that "maintaining the association itself" which mentioned above**. This is a more special project group.
 
-Note: The Open Source Community has a higher independence within UICHCC. But It still belongs to the UICHCC. It has its own public relationship, and can decide its own affair without the consent of the Main Root Group. However, when advertising the open source community, UICHCC should be advertised at the same time.
+Note: The Open Source Community has a higher independence within UICHCC. But It still belongs to the UICHCC. It has its own public relationship, and can decide its own affair without the consent of the Core Group. However, when advertising the open source community, UICHCC should be advertised at the same time.
 
 ### Linux User Group
 

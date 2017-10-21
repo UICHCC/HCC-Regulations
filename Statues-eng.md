@@ -1,4 +1,4 @@
-# Statues of UICHCC Computer Community
+# Statues of UICHCC Computer Association
 
 ## Before the Beginning
 
@@ -8,5 +8,5 @@
 
 *Both simplified Chinese and English versions are avaiable for this statues. If there is any argument, please refer to the simplified Chinese version.*
 
-## About UICHCC Computer Community
+## About UICHCC Computer Assiciation
 

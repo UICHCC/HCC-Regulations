@@ -21,6 +21,8 @@ Rules and regulations can fall into problems (e.g. conflicts, flaws). If you not
 
 In case you feel these are useful to you, all documents in this repository are licensed under [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
+---
+
 # UIC HCC 计算机协会 (UICHCC) 组织形式与运行准则
 
 本仓库中的文件描述 UIC HCC 计算机协会的运行准则。

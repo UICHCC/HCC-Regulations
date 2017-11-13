@@ -71,6 +71,10 @@ This activity is shelved.
 
 _The world around you is not what it seems._
 
+### TeX User Group
+
+**TBD:** To be decided
+
 ## R&D (Research & Development) Category
 
 This is a category rather than a group. Each group is responsible to develop and carry out certain project. There is a group for each project.

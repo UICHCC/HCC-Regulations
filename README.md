@@ -1,6 +1,6 @@
-# UIC Homebrew Computer Club (UICHCC) Form of Organization, Rules and Regulations
+# UIC HCC Computer Society Form of Organization, Rules and Regulations
 
-This repository contains files that describe rules and regulations on UIC Homebrew Computer Club (UICHCC).
+This repository contains files that describe rules and regulations on UIC HCC Computer Society (UICHCC).
 
 ## Writing Specification
 
@@ -21,9 +21,9 @@ Rules and regulations can fall into problems (e.g. conflicts, flaws). If you not
 
 In case you feel these are useful to you, all documents in this repository are licensed under [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
-# UIC Homebrew 计算机俱乐部 (UICHCC) 组织形式与运行准则
+# UIC HCC 计算机协会 (UICHCC) 组织形式与运行准则
 
-本仓库中的文件描述 UIC Homebrew 计算机俱乐部的运行准则。
+本仓库中的文件描述 UIC HCC 计算机协会的运行准则。
 
 ## 写作要求
 

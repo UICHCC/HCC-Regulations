@@ -60,7 +60,13 @@ This group mainly focuses on:
 
 ### Surveillance Self-Defense
 
-**TBD:** To be decided
+> Modern technology has given those in power new abilities to eavesdrop and collect data on innocent people. Surveillance Self-Defense is EFF's guide to defending yourself and your friends from surveillance by using secure technology and developing careful practices. (Retrived from https://ssd.eff.org)
+
+This group mainly focuses on:
+
+- development of course series, based on the Surveillance Self-Defense tutorials on https://ssd.eff.org, with extra topics on practices on cryptographic products
+- regularly issuing and sharing materials of the course
+- regularly holding offline lectures and workshops
 
 <!--
 ### Typing Contest

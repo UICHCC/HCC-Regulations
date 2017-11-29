@@ -80,7 +80,17 @@ This activity is shelved.
 
 ### Ingress
 
-_The world around you is not what it seems._
+> _The world around you is not what it seems._
+
+_Our future is at stake._ Surrounding Ingress, this group focuses on:
+
+- game technique researches, including but not limited to: Maxfield, Glyph techniques
+- irregular activity organization
+- ~~have fun~~
+
+Ingress is more than a game. It is worth studying.
+
+See: https://ingress.com
 
 ### TeX User Group
 

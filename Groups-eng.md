@@ -51,7 +51,12 @@ This is a category rather than a group. Each group is responsible to develop and
 
 ### IT Course Counseling Class
 
-**TBD:** To be decided
+> All BNU-HKBU UIC students must take IT course as their compulsory course. To help students grasp IT techniques—modern, essential knowledge, we have set up tutoring classes for those who have difficulties understanding IT things. We sincerely hope that no one will fail this course, because IT is the future, and you are too. (Retrived from https://uichcc.com)
+
+This group mainly focuses on:
+
+- development of course series
+- irregularly holding offline lectures and workshops
 
 ### Surveillance Self-Defense
 

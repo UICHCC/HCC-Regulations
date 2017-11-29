@@ -79,6 +79,10 @@ _The world around you is not what it seems._
 
 This is a category rather than a group. Each group is responsible to develop and carry out certain project. There is a group for each project.
 
+### Information Security Research Group
+
+This group mainly studies theories and practices on information security oriented technologies.
+
 ### UICHCC Homepage Development Group
 
 **TBD:** To be decided

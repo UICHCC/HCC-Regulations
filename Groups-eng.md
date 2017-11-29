@@ -91,8 +91,8 @@ This project is shelved.
 ### Forum (Hu'U) Development Group
 
 **TBD:** To be decided
+-->
 
 ### UIC Portal APP Development Group
 
 **TBD:** To be decided
--->

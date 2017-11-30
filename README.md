@@ -15,7 +15,7 @@ Rules and regulations can fall into problems (e.g. conflicts, flaws). If you not
 
 - Open an issue in this repository, and clearly state the problem;
 - Fork this repository, modify it, and create a Pull Request to this repository;
-- Members who are in the `/` group have full access to this repository, and can directly fix that problem.
+- Members who are in the `Core` group have full access to this repository, and can directly fix that problem.
 
 ## License
 
@@ -40,7 +40,7 @@ In case you feel these are useful to you, all documents in this repository are l
 
 - 在本仓库开一个工单（Issue），清晰地表述问题所在；
 - 派生（Fork）本仓库，改掉它，然后创建一个到本仓库的拉取申请（Pull Request）；
-- `/` 组的成员有本仓库的完全访问权限，可以直接修复问题。
+- `Core` 组的成员有本仓库的完全访问权限，可以直接修复问题。
 
 ## 授权协议
 

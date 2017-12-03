@@ -100,6 +100,10 @@ See: https://ingress.com
 
 This is a category rather than a group. Each group is responsible to develop and carry out certain project. There is a group for each project.
 
+### Machine Learning Research Group
+
+This group mainly studies theories and practices on machine learning oriented technologies.
+
 ### Information Security Research Group
 
 This group mainly studies theories and practices on information security oriented technologies.

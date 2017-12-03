@@ -111,9 +111,9 @@ This group mainly studies theories and practices on machine learning oriented te
 
 This group mainly studies theories and practices on information security oriented technologies.
 
-### UICHCC Homepage Development Group
+### UIC HCC Homepage Development Group
 
-**TBD:** To be decided
+This group studies web development technologies, and mainly takes charge of UIC HCC website development.
 
 ### ~~Online Judge Development Group~~
 

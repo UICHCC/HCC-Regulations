@@ -94,7 +94,10 @@ See: https://ingress.com
 
 ### TeX User Group
 
-**TBD:** To be decided
+This group gathers \*TeX users,
+
+- share \*TeX experiences and resources
+- publicize \*TeX
 
 ## R&D (Research & Development) Category
 

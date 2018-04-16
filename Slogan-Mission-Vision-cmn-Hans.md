@@ -3,15 +3,15 @@
 ## 标语
 
 <div align="center" style="font-size:1.5em">
-  <p style="margin:0">我们拉近你与技术的距离。</p>
-  <p style="margin:0">We Abridge You and Technology.</p>
+  <p style="margin:0">拉近你与技术的距离。</p>
+  <p style="margin:0">Bridging You And Technology.</p>
 </div>
 
 ### 另一种形式
 
 <div align="center" style="font-size:1.5em">
   <p style="margin:0">你与技术间的桥梁。</p>
-  <p style="margin:0">A Bridge Between You and Technology.</p>
+  <p style="margin:0">A Bridge Between You And Technology.</p>
 </div>
 
 ## 目标

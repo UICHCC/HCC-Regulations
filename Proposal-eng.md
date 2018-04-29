@@ -57,7 +57,7 @@ The above content of this proposal is all we expect to do in the near future. To
 * **Support of infrastructure:** As a technology-based student organization, we expect a form of infrastructure support such as web server, powerful workstation to support our development on projects and some other research.
 * **Office:** If possible, we hope that we could have an office in our school to conduct our activity. It would be even better to have a meeting room with small television and white board.
 
-We sincerely hope that our school and Innovation Center can take our idea and our plan into consideration, and make our plan blossoming in UIC.
+We sincerely hope that our school and Innovation Center can take our idea and our plan into consideration, and make our plan blossom in UIC.
 
 ## Contact
 

@@ -4,15 +4,15 @@ Dear Sir / Madam:
 
 
 
-We are computer technology enthusiasts in UIC from different majors and different grades, who founded UIC HCC Computer Society (Unofficial) in October, 2016, in hope of spreading the knowledge of computer science and technology, conveying the sprit of open source, and sharing as well as focusing on the frontier development of computer science. Today, we wish to establish UIC HCC Computer Society officially under Innovation Center at the moment when UIC New Campus has moved smoothly and Innovation Center will be established soon. We hope to make contributions to students and staffs in UIC as well as the Industry-University Integration plan of UIC with the support of this platform.
+We are computer technology enthusiasts in UIC from different majors and different grades, who founded UIC HCC Computer Society (Unofficial) in October, 2016, in hope of spreading the knowledge of computer science and technology, conveying the sprit of open source, and sharing as well as focusing on the frontier development of computer science. Today, we hope to establish UIC HCC Computer Society officially attaching to Innovation Center, which will be put in services soon since the UIC new campus have been moved smoothly. We hope to make contributions to students and staffs in UIC as well as the Industry-University-Research Integration plan of UIC with the support of this platform.
 
-This proposal will introduce overview, vision, mission, task and expected achievement of UIC HCC Computer Society (hereafter this text will be abbreviated as Society). In addition, we will list our expectations to Innovation Center and UIC.
+This proposal will introduce the overview, vision, missions, tasks and expected achievements of UIC HCC Computer Society (hereafter abbreviated as Society). Simutaneously, we will list our expectations to Innovation Center and UIC.
 
 
 
 ## Society Overview
 
-UIC HCC Computer Society established unofficially in October, 2016, and have 20 members from different majors and different grades (members list in appendix). We make our target **Bridging You And Technology** as our responsibility, and spread knowledge related to computer science to UIC teachers and students in different occasions actively. With the emerge of new technologies in computer science, we find it difficult to achieve our target and keep our development under the unofficial operation mode. Therefore, our society wish to obtain the strong support from UIC and Innovation Center to carry out more science literacy, practice and research activities.
+UIC HCC Computer Society established unofficially in October, 2016, and have 20 members from different majors and different grades (members list in appendix). We make our goal **Bridging You And Technology** as our responsibility, and spread knowledge related to computer science to UIC teachers and students in different occasions actively. With the emerge of new technologies in computer science, we find it difficult to achieve our goal and keep our development under the unofficial operation mode. Therefore, our society wish to obtain the strong support from UIC and Innovation Center to carry out carry out more science-popularising lectures, practices, and research activities.
 
 Currently, we have our public website, GitHub Organization, mail system and WeChat official account.
 
@@ -20,13 +20,13 @@ Currently, we have our public website, GitHub Organization, mail system and WeCh
 
 ## Vision of Society
 
-Originated from the fundamental mission and vision of Society, **Bridging You And Technology**, our society hopes to carry out **popularizaion of knowledge related to computer science**, **software and hardware development** cooperated with our school or society organizations, **participation on open source projects** and **researching on frontier theories of computer science and their application**.
+In order to implement a fulfilling practice on the fundamental goal of Society, **Bridging You And Technology**, our society hopes to carry out **popularization of knowledge related to computer science**, **software and hardware development** cooperated with our school or society organizations, **participation in open source projects** and **research on frontier theories of computer science and their application**.
 
 ### Popularizing knowledge related to computer science
 
 Though computer has gone into our life, for most people, computer is still a "black-box". Meanwhile, many concepts of computer science such as Blockchain, Artificial Intelligence and Big Data are very popular. New products and concepts in computer science field emerge one after the other. Many people are interested in these "high technology" products and concepts.
 
-Most of the members in our Society have some experience and knowledge on computer science, and they are eager to share their own knowledge and experience to others. We refer the operation mode of CUHK(SZ) _Computer @ Comity_ and make popularization of computer science knowledge as our long term target as well as a service and welfare provided for all of UIC teachers and students.
+Most of the members in our Society have some experience and knowledge on computer science, and they are eager to share their own knowledge and experience to others. We refer the operation mode of CUHK(SZ) _Computer @ Comity_ and make popularization of computer science knowledge as our long term goal as well as a service and welfare provided for all of UIC teachers and students.
 
 The scope of popularize includes but not limited to daily usage of computer, skills of using UIC IT system, introduction of programming languages, introduction to data analysis and introduction of Artificial Intelligence. The form of these activities includes but not limited to offline lectures, workshop, sharing discussion, WeChat official account push and online interactive learning.
 

@@ -40,7 +40,9 @@ We hope that we can build a bridge connecting ideas and achievement with the fra
 
 Moreover, we hope to seize this opportunity to cooperate with other companies and organizations outside school. I believe we can connect with the IT industry in these cooperation to promote our ability and popularize newest trend of IT industry.
 
-<!-- TODO -->
+### Participation of open source projects
+
+We are in a world of open source, and we rely on open source software every day. The spirit and the value of open source are influencing the whole IT industry. We are responsible to make contributions to open source communities. These includes but not limited to localization (translation) of software, code submission, and creation of open source software. We expect that our participation can push on the popularization and development of open source culture in UIC, and in addition, pushing on the spread of value of sharing in UIC.
 
 ### Research on frontier theories of computer science and their application
 

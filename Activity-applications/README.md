@@ -21,7 +21,7 @@ Because of the special situation of UICHCC, the activities organized by UICHCC a
 ## Procedure of applying activities
 If you want to apply for an activity, and your activity fulfills above requirements, you can follow the following procedure.
 
-| Timeline | Action | To / Form | Expected Process Time |
+| Timeline | Action | To / From | Expected Process Time |
 | ------ | ------- | ------- | ------- |
 | Beginning of the semester | Submit an overview of activities in current semester | HCC Core | Immediate |
 | One month before | Submit your detail plan with the application form | HCC Core | One week |

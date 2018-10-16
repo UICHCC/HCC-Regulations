@@ -1,5 +1,5 @@
 # Activities Application
-Due to the regulations of the college, to apply an activity, please fill up the [form](HCC-Activity-Application-Form.docx) available in this directory, then send it with your detail activity plan and other materials related (if any) to [admin@uichcc.com](mailto:admin@uichcc.com).
+Due to the regulations of the college, to apply an activity, please fill up the [form](HCC-Activity-Application-Form.docx) available in this directory, then send it with your detail activity plan and other materials related (if any) to [affairs@uichcc.com](mailto:affairs@uichcc.com).
 ## What "activities" can be organized?
 According to the college regulations, the activities organized by student organizations should fulfill following conditions:
 * Open to all students (at least) of the college.

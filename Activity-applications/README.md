@@ -21,13 +21,13 @@ Because of the special situation of UICHCC, the activities organized by UICHCC a
 ## Procedure of applying activities
 If you want to apply for an activity, and your activity fulfills above requirements, you can follow the following procedure.
 
-| Timeline | Action | Expected Process Time |
-| ------ | ------- | ------- |
-| Beginning of the semester | Submit an overview of activities in current semester | Immediate |
-| One month before | Submit your detail plan with the application form to HCC Core | One week |
-| Three weeks before | Submit your plan and form to DST | One week |
-| Two weeks before | Get a verification result and prepare your activity | N/A |
-| One week after | Submit your evaluation form of your activity | N/A |
+| Timeline | Action | To / Form | Expected Process Time |
+| ------ | ------- | ------- | ------- |
+| Beginning of the semester | Submit an overview of activities in current semester | HCC Core | Immediate |
+| One month before | Submit your detail plan with the application form | HCC Core | One week |
+| Three weeks before | Submit your plan and form | DST Office | One week |
+| Two weeks before | Get a verification result and prepare your activity | DST Office | N/A |
+| One week after | Submit your evaluation form of your activity | DST Office | N/A |
 
 *Please notice that process time may vary for many reasons.*
 

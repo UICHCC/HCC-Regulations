@@ -1,0 +1,2 @@
+# Activity Application
+Due to the regulations of the college, to apply an activity, please fill up the [form](HCC-Activity-Application-Form.docx) available in this directory, then send it with your detail activity plan and other materials related (if any) to [admin@uichcc.com](mailto:admin@uichcc.com).
